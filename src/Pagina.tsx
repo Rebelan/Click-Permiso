@@ -8,7 +8,7 @@ export const Pagina = () => {
     return (
         <>
 
-
+            <Header/>
             <Navbar />
             <Routes>
 
